@@ -1,0 +1,26 @@
+html {
+  font-size: 20px;
+  font-family: "East Sea Dokdo", "Moon Dance", sans-serif;
+  background-color: #4AB1F6;
+}
+
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #FF9500;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+}
+
+h1 {
+  margin: 0;
+  padding: 20px 0;
+  color: #4AB1F6;
+  text-shadow: 3px 3px 1px black;
+}
+
+img {
+  display: block;
+  width: 600px;
+  margin: 0 auto;
+}
